@@ -47,5 +47,8 @@ public class PhoneBook {
 
     }
 
+    String getAllBook2(){
+        return map.toString();
+    }
     
 }
